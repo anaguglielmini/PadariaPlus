@@ -1,0 +1,44 @@
+div{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.img-logo{
+    width: 200px;
+}
+
+a{
+    margin: 0 10px;
+    color: #542f0c;
+}
+
+.sobre{
+    border-top: 1px solid #de8e37;
+}
+
+.sobre h1{
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.sobre h2{
+    font-weight: normal;
+    color: #de8e37;
+    margin-top: 10px;
+}
+
+.img-banner{
+    width: 700px;
+}
+
+.produtos{
+    background-color: #de8e37;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+
