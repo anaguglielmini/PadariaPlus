@@ -1,3 +1,8 @@
+*{
+    font-family: Arial;
+    margin: 0;
+}
+
 div{
     width: 700px;
     margin: 20px auto;
@@ -11,6 +16,7 @@ div{
 a{
     margin: 0 10px;
     color: #542f0c;
+    font-size: 20px;
 }
 
 .sobre{
@@ -34,11 +40,36 @@ a{
     width: 700px;
 }
 
+.produtos img{
+    width: 500px;
+}
+
+.produtos h2{
+    margin-top: 15px;
+}
+
 .produtos{
     background-color: #de8e37;
     padding-top: 15px;
     padding-bottom: 15px;
     color: #fff;
+}
+
+span{
+    font-weight: bold;
+}
+
+p{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.paragrafo{
+    line-height: 30px;
+}
+
+img{
+    margin-top: 15px;
 }
 
 
